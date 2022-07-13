@@ -1,0 +1,487 @@
+{
+  "version": 7,
+  "backups": [
+    {
+      "name": "info",
+      "messages": [
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "۵ about ۵",
+                "description": "heartless is a chill community server with a dark minimalistic aesthetic where you can vibe and hang out with people old and new.",
+                "color": 0,
+                "author": {
+                  "name": "✰ ༄　𝙷 𝙴 𝙰 𝚁 𝚃 𝙻 𝙴 𝚂 𝚂",
+                  "url": "https://youtube.com/sl44f",
+                  "icon_url": "https://hear.tless.one/files/media/misc/serveravatar.gif"
+                },
+                "image": {
+                  "url": "https://hear.tless.one/files/media/misc/devider.gif"
+                },
+                "thumbnail": {
+                  "url": "https://hear.tless.one/files/media/misc/serveravatar.gif"
+                }
+              }
+            ],
+            "username": "☂ ʰᵉᵃʳᵗˡᵉˢˢ",
+            "avatar_url": "https://hear.tless.one/files/media/misc/loveless.png"
+          },
+          "reference": ""
+        },
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "۵ rules ۵",
+                "description": "ღ always use common sense.\nღ no hate speech what so ever.\nღ don't start or continue drama.\nღ never advertise in server or dms.\nღ no asking for things such as roles.\nღ do not be overly toxic or sensitive.\nღ use channels for their desired purpose.\nღ don't use loopholes in the rules, automod etc.\nღ follow discords tos and guidelines at all times.",
+                "color": 0,
+                "fields": [
+                  {
+                    "name": "ﾠ",
+                    "value": "ﾠﾠﾠﾠﾠﾠ[terms of service](https://discord.com/terms)",
+                    "inline": true
+                  },
+                  {
+                    "name": "ﾠ",
+                    "value": "[community guidelines](https://discord.com/guidelines)",
+                    "inline": true
+                  }
+                ],
+                "footer": {
+                  "text": "refusing to follow these will result in some form of punishment.",
+                  "icon_url": "https://hear.tless.one/files/media/misc/warning.png"
+                },
+                "image": {
+                  "url": "https://hear.tless.one/files/media/misc/devider.gif"
+                }
+              }
+            ],
+            "username": "☂ ʰᵉᵃʳᵗˡᵉˢˢ",
+            "avatar_url": "https://hear.tless.one/files/media/misc/loveless.png"
+          },
+          "reference": ""
+        },
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "color": 0,
+                "fields": [
+                  {
+                    "name": "۵ apply ۵",
+                    "value": "ღ [hear.tless.one/apply](https://hear.tless.one/apply)",
+                    "inline": true
+                  },
+                  {
+                    "name": "۵ appeal ۵",
+                    "value": "ღ [hear.tless.one/appeal](https://hear.tless.one/appeal)",
+                    "inline": true
+                  },
+                  {
+                    "name": "۵ report ۵",
+                    "value": "ღ [hear.tless.one/report](https://hear.tless.one/report)"
+                  }
+                ],
+                "image": {
+                  "url": "https://hear.tless.one/files/media/misc/devider.gif"
+                }
+              }
+            ],
+            "username": "☂ ʰᵉᵃʳᵗˡᵉˢˢ",
+            "avatar_url": "https://hear.tless.one/files/media/misc/loveless.png"
+          },
+          "reference": ""
+        },
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "۵ donate ۵",
+                "color": 0,
+                "fields": [
+                  {
+                    "name": "Bitcoin (BTC)",
+                    "value": "ღ `1FNwKkM1ncy6HhRb2gHe3twgZBibFwsLzu`"
+                  },
+                  {
+                    "name": "Ethereum (ETH)",
+                    "value": "ღ `0x0f5b2f107b1ae866e50a8140bc3f0e0378ec97a0`"
+                  }
+                ],
+                "footer": {
+                  "text": "donating may have perks depending on the amount.",
+                  "icon_url": "https://hear.tless.one/files/media/misc/warning.png"
+                },
+                "image": {
+                  "url": "https://hear.tless.one/files/media/misc/devider.gif"
+                }
+              }
+            ],
+            "username": "☂ ʰᵉᵃʳᵗˡᵉˢˢ",
+            "avatar_url": "https://hear.tless.one/files/media/misc/loveless.png"
+          },
+          "reference": ""
+        },
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "۵ level ۵",
+                "color": 0,
+                "fields": [
+                  {
+                    "name": "ﾠ【 𝟻 】",
+                    "value": "ღ nick perms\nღ emote & sticker\nღ public threads",
+                    "inline": true
+                  },
+                  {
+                    "name": "ﾠ【𝟷𝟶】",
+                    "value": "ღ attachments\nღ link & tts perms",
+                    "inline": true
+                  },
+                  {
+                    "name": "ﾠ【𝟸𝟻】",
+                    "value": "ღ private threads",
+                    "inline": true
+                  }
+                ],
+                "image": {
+                  "url": "https://hear.tless.one/files/media/misc/devider.gif"
+                }
+              }
+            ],
+            "username": "☂ ʰᵉᵃʳᵗˡᵉˢˢ",
+            "avatar_url": "https://hear.tless.one/files/media/misc/loveless.png"
+          },
+          "reference": ""
+        },
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "۵ boost ۵",
+                "description": "ღ custom role & colour.\nღ level perms instantly.\nღ high role on sidebar.",
+                "color": 0,
+                "footer": {
+                  "text": "removing your boost will remove these perks.",
+                  "icon_url": "https://hear.tless.one/files/media/misc/warning.png"
+                },
+                "image": {
+                  "url": "https://hear.tless.one/files/media/misc/devider.gif"
+                }
+              }
+            ],
+            "username": "☂ ʰᵉᵃʳᵗˡᵉˢˢ",
+            "avatar_url": "https://hear.tless.one/files/media/misc/loveless.png"
+          },
+          "reference": ""
+        },
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "۵ vote ۵",
+                "description": "ღ [top.gg](https://top.gg/servers/725318956226707498/vote)⭒\nღ [discord.st](https://discord.st/vote/heartless)\nღ [discords.com](https://discords.com/servers/725318956226707498/upvote)⭒\nღ [discordinvites.net](https://discordinvites.net/vote/725318956226707498)⭒\nღ [discordbotlist.com](https://discordbotlist.com/servers/heartless/upvote)\nღ [discordservers.com](https://discordservers.com/server/725318956226707498/bump)",
+                "color": 0,
+                "footer": {
+                  "text": "voting may have temp perks depending on the site.",
+                  "icon_url": "https://hear.tless.one/files/media/misc/warning.png"
+                },
+                "image": {
+                  "url": "https://hear.tless.one/files/media/misc/devider.gif"
+                }
+              }
+            ],
+            "username": "☂ ʰᵉᵃʳᵗˡᵉˢˢ",
+            "avatar_url": "https://hear.tless.one/files/media/misc/loveless.png"
+          },
+          "reference": ""
+        },
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "۵ affiliate ۵",
+                "description": "ღ [message the owner to be here](https://dsc.gg/sadness)",
+                "color": 0,
+                "image": {
+                  "url": "https://hear.tless.one/files/media/misc/devider.gif"
+                }
+              }
+            ],
+            "username": "☂ ʰᵉᵃʳᵗˡᵉˢˢ",
+            "avatar_url": "https://hear.tless.one/files/media/misc/loveless.png"
+          },
+          "reference": ""
+        },
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "۵ invite ۵",
+                "description": "ღ [discord.gg/broken](https://discord.gg/broken)\nღ [discord.io/jebaited](https://discord.io/jebaited)\nღ [dsc.gg/sadness](https://dsc.gg/sadness)",
+                "color": 0,
+                "footer": {
+                  "text": "✰ ༄　𝙷 𝙴 𝙰 𝚁 𝚃 𝙻 𝙴 𝚂 𝚂 ⋆ 𝚏𝚘𝚞𝚗𝚍𝚎𝚍 𝚒𝚗 𝚖𝚊𝚢 𝟸𝟶𝟸𝟷 𝚋𝚢 𝚂𝙻𝟺𝚏",
+                  "icon_url": "https://hear.tless.one/files/media/misc/serveravatar.gif"
+                },
+                "image": {
+                  "url": "https://hear.tless.one/files/media/misc/devider.gif"
+                }
+              }
+            ],
+            "username": "☂ ʰᵉᵃʳᵗˡᵉˢˢ",
+            "avatar_url": "https://hear.tless.one/files/media/misc/loveless.png"
+          },
+          "reference": "https://ptb.discord.com/channels/725318956226707498/844111440519888896/885342923087032340"
+        }
+      ],
+      "targets": [
+        {
+          "url": "https://ptb.discord.com/api/webhooks/846631524790173767/9Xv_ybfRTlxJhmd6ogUKeLiw7TEU_Fst8CDy7EV5M6JsbtJnmZJzKwPAO2uONLSznzXO"
+        }
+      ]
+    },
+    {
+      "name": "roles",
+      "messages": [
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "۵ gender ۵",
+                "description": "♂️ ⭒ <@&853851322775765022>\n\n♀️ ⭒ <@&853851325800775722>\n\n⚧ ⭒ <@&853851326811078666>",
+                "color": 0,
+                "author": {
+                  "name": "✰ ༄　𝙷 𝙴 𝙰 𝚁 𝚃 𝙻 𝙴 𝚂 𝚂",
+                  "url": "https://youtube.com/sl44f",
+                  "icon_url": "https://hear.tless.one/files/media/misc/serveravatar.gif"
+                },
+                "image": {
+                  "url": "https://hear.tless.one/files/media/misc/gender.png"
+                },
+                "thumbnail": {
+                  "url": "https://hear.tless.one/files/media/misc/serveravatar.gif"
+                }
+              }
+            ],
+            "username": "☂ ʰᵉᵃʳᵗˡᵉˢˢ",
+            "avatar_url": "https://hear.tless.one/files/media/misc/loveless.png"
+          },
+          "reference": ""
+        },
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "۵ age ۵",
+                "description": "➖ ⭒ <@&853851327369183242>\n\n➕ ⭒ <@&853851327624249345>",
+                "color": 0,
+                "image": {
+                  "url": "https://hear.tless.one/files/media/misc/age.png"
+                }
+              }
+            ],
+            "username": "☂ ʰᵉᵃʳᵗˡᵉˢˢ",
+            "avatar_url": "https://hear.tless.one/files/media/misc/loveless.png"
+          },
+          "reference": ""
+        },
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "۵ continent ۵",
+                "description": "🇿🇦 ⭒ <@&853851328392069130>\n\n🇲🇫 ⭒ <@&853851328706773014>\n\n🇯🇵 ⭒ <@&853851329503690772>\n\n🇭🇲 ⭒ <@&853854651456028702>\n\n🇬🇧 ⭒ <@&853854653091151873>\n\n🇺🇲 ⭒ <@&853854653128245248>\n\n🇧🇷 ⭒ <@&853854653925425193>",
+                "color": 0,
+                "image": {
+                  "url": "https://hear.tless.one/files/media/misc/continent.png"
+                }
+              }
+            ],
+            "username": "☂ ʰᵉᵃʳᵗˡᵉˢˢ",
+            "avatar_url": "https://hear.tless.one/files/media/misc/loveless.png"
+          },
+          "reference": ""
+        },
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "۵ hobbie ۵",
+                "description": "📦 ⭒ <@&853854654320607252>\n\n🥼 ⭒ <@&853878469716869130>\n\n🍰 ⭒ <@&853878470446284820>\n\n🐄 ⭒ <@&853878470928760833>\n\n🥅 ⭒ <@&853878489988333589>\n\n🎮 ⭒ <@&853878491279130714>\n\n🎧 ⭒ <@&853878491447558145>\n\n📺 ⭒ <@&853878492256927744>\n\n🎨 ⭒ <@&853878538419961877>\n\n📚 ⭒ <@&853878540730368011>",
+                "color": 0,
+                "image": {
+                  "url": "https://hear.tless.one/files/media/misc/hobbie.png"
+                }
+              }
+            ],
+            "username": "☂ ʰᵉᵃʳᵗˡᵉˢˢ",
+            "avatar_url": "https://hear.tless.one/files/media/misc/loveless.png"
+          },
+          "reference": ""
+        },
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "۵ ping ۵",
+                "description": ":loud_sound: ⭒ <@&875205735468908554>\n\n:bell: ⭒ <@&875205742309822565>\n\n:mega: ⭒ <@&875205728309239858>\n\n:loudspeaker: ⭒ <@&875216414628253756>\n\n:speech_balloon: ⭒ <@&875205504765399051>\n\n:tada: ⭒ <@&875205490869674055>\n\n:grey_question: ⭒ <@&877469073867411476>\n\n:grey_exclamation: ⭒ <@&885336678619828305>",
+                "color": 0,
+                "footer": {
+                  "text": "✰ ༄　𝙷 𝙴 𝙰 𝚁 𝚃 𝙻 𝙴 𝚂 𝚂　⭒　𝚛𝚎𝚊𝚌𝚝 𝚝𝚘 𝚊𝚍𝚍 𝚝𝚑𝚎 𝚛𝚘𝚕𝚎",
+                  "icon_url": "https://hear.tless.one/files/media/misc/serveravatar.gif"
+                },
+                "image": {
+                  "url": "https://hear.tless.one/files/media/misc/ping.png"
+                }
+              }
+            ],
+            "username": "☂ ʰᵉᵃʳᵗˡᵉˢˢ",
+            "avatar_url": "https://hear.tless.one/files/media/misc/loveless.png"
+          },
+          "reference": ""
+        }
+      ],
+      "targets": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "name": "staff",
+      "messages": [
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "۵ rules ۵",
+                "description": "ღ don't abuse.\nღ follow main rules.",
+                "color": 0,
+                "author": {
+                  "name": "✰ ༄　𝙷 𝙴 𝙰 𝚁 𝚃 𝙻 𝙴 𝚂 𝚂",
+                  "url": "https://youtube.com/sl44f",
+                  "icon_url": "https://hear.tless.one/files/media/misc/serveravatar.gif"
+                },
+                "footer": {
+                  "text": "refusing to follow these will result in some form of punishment.",
+                  "icon_url": "https://hear.tless.one/files/media/misc/warning.png"
+                },
+                "image": {
+                  "url": "https://hear.tless.one/files/media/misc/devider.gif"
+                },
+                "thumbnail": {
+                  "url": "https://hear.tless.one/files/media/misc/serveravatar.gif"
+                }
+              }
+            ],
+            "username": "☂ ʰᵉᵃʳᵗˡᵉˢˢ",
+            "avatar_url": "https://hear.tless.one/files/media/misc/loveless.png"
+          },
+          "reference": ""
+        },
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "۵ responsibilities ۵",
+                "description": "ღ stay active.\nღ keep peace.\nღ enforce rules.",
+                "color": 0,
+                "footer": {
+                  "text": "failing to do these may result in demotion.",
+                  "icon_url": "https://hear.tless.one/files/media/misc/warning.png"
+                },
+                "image": {
+                  "url": "https://hear.tless.one/files/media/misc/devider.gif"
+                }
+              }
+            ],
+            "username": "☂ ʰᵉᵃʳᵗˡᵉˢˢ",
+            "avatar_url": "https://hear.tless.one/files/media/misc/loveless.png"
+          },
+          "reference": ""
+        },
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "۵ perms ۵",
+                "color": 0,
+                "fields": [
+                  {
+                    "name": "helper",
+                    "value": "ღ manage messages.\nღ manage nicknames.\nღ audit and auttaja logs.\nღ mute members in vc & text."
+                  },
+                  {
+                    "name": "mod",
+                    "value": "ღ helper perms.\nღ kick members.\nღ deafen members.\nღ move members."
+                  },
+                  {
+                    "name": "admin",
+                    "value": "ღ helper & mod perms.\nღ manage roles.\nღ ban members.\nღ manage threads."
+                  },
+                  {
+                    "name": "co owner",
+                    "value": "ღ all perms"
+                  }
+                ],
+                "image": {
+                  "url": "https://hear.tless.one/files/media/misc/devider.gif"
+                }
+              }
+            ],
+            "username": "☂ ʰᵉᵃʳᵗˡᵉˢˢ",
+            "avatar_url": "https://hear.tless.one/files/media/misc/loveless.png"
+          },
+          "reference": ""
+        },
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "۵ ill add more later ۵",
+                "description": "ღ [dsc.gg/sadness](https://dsc.gg/sadness)\nღ [discord.io/jebaited](https://discord.io/jebaited)\nღ [dsc.gg/sadness](https://dsc.gg/sadness)",
+                "color": 0,
+                "footer": {
+                  "text": "✰ ༄　𝙷 𝙴 𝙰 𝚁 𝚃 𝙻 𝙴 𝚂 𝚂",
+                  "icon_url": "https://hear.tless.one/files/media/misc/serveravatar.gif"
+                },
+                "image": {
+                  "url": "https://hear.tless.one/files/media/misc/devider.gif"
+                }
+              }
+            ],
+            "username": "☂ ʰᵉᵃʳᵗˡᵉˢˢ",
+            "avatar_url": "https://hear.tless.one/files/media/misc/loveless.png"
+          },
+          "reference": ""
+        }
+      ],
+      "targets": [
+        {
+          "url": "https://ptb.discord.com/api/webhooks/885772975155060756/dRZYF2W9Vtrzc5f_GBGk4fPFWKafrMocZtknV3OjpO2bRSg6XX9eVNtXsUdb1e8T7flb"
+        }
+      ]
+    }
+  ]
+}
