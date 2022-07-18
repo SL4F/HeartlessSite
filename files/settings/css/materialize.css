@@ -6758,10 +6758,6 @@ form p:last-child {
   pointer-events: none;
 }
 
-[type="checkbox"] {
-  /* checkbox aspect */
-}
-
 [type="checkbox"] + span:not(.lever) {
   position: relative;
   padding-left: 35px;
