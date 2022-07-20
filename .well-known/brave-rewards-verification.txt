@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: tless.one
+Token: 6f8705db223ec060568cbb69591d719f09ccbe084670ccd9a609088eddedee95 
