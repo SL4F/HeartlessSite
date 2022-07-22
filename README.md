@@ -4,5 +4,5 @@
   <a href="https://hear.tless.one" target="_blank"><img src="https://hear.tless.one/partnersmall.gif" alt="heartless" width="350" height="175"/></a>
 </p>
 
-###### [GitHub](https://github.com/sl4f/heartless_website) - [Sponsor](https://github.com/sponsors/SL4F)
+###### [GitHub](https://github.com/sl4f/heartless) - [Sponsor](https://github.com/sponsors/SL4F)
 ___
