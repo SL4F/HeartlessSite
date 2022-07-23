@@ -87,6 +87,7 @@ nav {
 /* unvisited link */
 footer a:link {
     color: white;
+    text-align: center;
 }
 
 /* visited link */
