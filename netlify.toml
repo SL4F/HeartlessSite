@@ -27,7 +27,7 @@
 # here but we recommend using the Netlify UI for sensitive
 # values to keep them out of your source repository.
 [context.production]
-  publish = "public/"
+  # publish = "public/"
   command = "echo 'make all'"
   environment = { NODE_VERSION = "14.15.3" }
 
@@ -136,21 +136,21 @@
   # Define which paths this specific [[headers]] block will cover.
   for = "private/*"
 
-  [headers.values]
-    X-Frame-Options = "DENY"
-    X-XSS-Protection = "1; mode=block"
-    Content-Security-Policy = "frame-ancestors https://www.facebook.com"
+  # [headers.values]
+    # X-Frame-Options = "DENY"
+    # X-XSS-Protection = "1; mode=block"
+    # Content-Security-Policy = "frame-ancestors https://www.facebook.com"
 
     # Multi-value headers are expressed with multi-line strings.
-  cache-control = '''
-  max-age=0,
-  no-cache,
-  no-store,
-  must-revalidate'''
+  # cache-control = '''
+  # max-age=0,
+  # no-cache,
+  # no-store,
+  # must-revalidate'''
 
     # Basic-Auth allows you to password protect your whole site.
     # This feature may not be available on all plans.
-    Basic-Auth = "someuser:somepassword anotheruser:anotherpassword"
+    # Basic-Auth = "someuser:somepassword anotheruser:anotherpassword"
 
 [functions]
   # Directory with serverless functions, including background
