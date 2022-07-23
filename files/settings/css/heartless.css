@@ -63,6 +63,11 @@ nav {
     padding-top: 13px;
 }
 
+.fifty {
+    width: 42.5%;
+    float: left;
+}
+
 .button {
     padding: 9px 20px;
     border-color: white;
