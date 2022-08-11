@@ -6,13 +6,7 @@
 # A redirect rule with many of the supported properties
 [[redirects]]
   from = "https://heartless.netlify.app"
-  to = "https://hear.tless.one"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "https://tless.one"
-  to = "https://hear.tless.one"
+  to = "https://heartless.uno"
   status = 301
   force = true
 
