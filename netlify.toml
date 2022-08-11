@@ -1,8 +1,7 @@
 [[plugins]]
   # Installs the Lighthouse Build Plugin for all deploy contexts
   package = "@netlify/plugin-lighthouse"
-  package = "@netlify/plugin-ghost-markdown@3.0.3"
-  package = "@netlify/plugin-no-more-404@0.0.15"
+  package = "@netlify/plugin-no-more-404"
 
 
 # A redirect rule with many of the supported properties
