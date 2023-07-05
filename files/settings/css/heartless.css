@@ -42,7 +42,7 @@ nav {
 .navbar {
 	margin: 0 auto!important;
 	padding-top: 20px;
-	width: 60%!important
+	width: 80%!important
 }
 
 .navbar li {
@@ -80,8 +80,8 @@ nav {
 }
 
 .button:hover {
-    border-color: #FF0000 !important;
-    color: #FF0000 !important;
+    border-color: #b50000 !important;
+    color: #b50000 !important;
     text-decoration: none;
 }
 
@@ -89,10 +89,15 @@ nav {
     margin: 4px;
 }
 
+footer {
+    align-content: center;
+    text-align: center;
+    color: #fff;
+}
 /* unvisited link */
 footer a:link {
     color: white;
-    text-align: center;
+    transition: color 0.5s ease;
 }
 
 /* visited link */
@@ -102,7 +107,7 @@ footer a:visited {
 
 /* mouse over link */
 footer a:hover {
-    color: white;
+    color: #b50000;
     text-decoration: underline;
 }
 
@@ -367,8 +372,8 @@ padding-top: 12px;
 }
 
 #message .button:hover{
-    border-color: #FF0000 !important;
-    color: #FF0000 !important;
+    border-color: #b50000 !important;
+    color: #b50000 !important;
     text-decoration: none;
 }
 
