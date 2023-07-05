@@ -11,22 +11,23 @@
               {
                 "title": "۵ about ۵",
                 "description": "heartless is a chill community server with a dark minimalistic aesthetic where you can vibe and hang out with people old and new.",
-                "color": 0,
+                "color": 1,
                 "author": {
                   "name": "✰ ༄　𝙷 𝙴 𝙰 𝚁 𝚃 𝙻 𝙴 𝚂 𝚂",
                   "url": "https://youtube.com/sl44f",
-                  "icon_url": "https://heartless.uno/files/media/misc/serveravatar.gif"
+                  "icon_url": "https://heartless.uno/files/media/server/serveravatar.gif"
                 },
                 "image": {
-                  "url": "https://heartless.uno/files/media/misc/devider.gif"
+                  "url": "https://heartless.uno/files/media/server/divider.gif"
                 },
                 "thumbnail": {
-                  "url": "https://heartless.uno/files/media/misc/serveravatar.gif"
+                  "url": "https://heartless.uno/files/media/server/serveravatar.gif"
                 }
               }
             ],
-            "username": "☂ ʰᵉᵃʳᵗˡᵉˢˢ",
-            "avatar_url": "https://heartless.uno/files/media/misc/loveless.png"
+            "username": "heartless",
+            "avatar_url": "https://heartless.uno/files/media/server/loveless.png",
+            "attachments": []
           },
           "reference": ""
         },
@@ -36,63 +37,20 @@
             "embeds": [
               {
                 "title": "۵ rules ۵",
-                "description": "ღ always use common sense.\nღ no hate speech what so ever.\nღ don't start or continue drama.\nღ never advertise in server or dms.\nღ no asking for things such as roles.\nღ do not be overly toxic or sensitive.\nღ use channels for their desired purpose.\nღ don't use loopholes in the rules, automod etc.\nღ follow discords tos and guidelines at all times.",
-                "color": 0,
-                "fields": [
-                  {
-                    "name": "ﾠ",
-                    "value": "ﾠﾠﾠﾠﾠﾠ[terms of service](https://discord.com/terms)",
-                    "inline": true
-                  },
-                  {
-                    "name": "ﾠ",
-                    "value": "[community guidelines](https://discord.com/guidelines)",
-                    "inline": true
-                  }
-                ],
+                "description": "ღ always use common sense.\nღ no hate speech what so ever.\nღ don't start or continue drama.\nღ never advertise in server or dms.\nღ no asking for things such as roles.\nღ do not be overly toxic or sensitive.\nღ use channels for their desired purpose.\nღ don't use loopholes in the rules, automod etc.\nღ follow discords [terms](https://discord.com/terms) and [guidelines](https://discord.com/guidelines) at all times.\n\n*whitelisted sites and blacklisted words can be found [here](https://heartless.uno/transparency)*",
+                "color": 1,
                 "footer": {
                   "text": "refusing to follow these will result in some form of punishment.",
-                  "icon_url": "https://heartless.uno/files/media/misc/warning.png"
+                  "icon_url": "https://heartless.uno/files/media/server/warning.png"
                 },
                 "image": {
-                  "url": "https://heartless.uno/files/media/misc/devider.gif"
+                  "url": "https://heartless.uno/files/media/server/divider.gif"
                 }
               }
             ],
-            "username": "☂ ʰᵉᵃʳᵗˡᵉˢˢ",
-            "avatar_url": "https://heartless.uno/files/media/misc/loveless.png"
-          },
-          "reference": ""
-        },
-        {
-          "data": {
-            "content": null,
-            "embeds": [
-              {
-                "color": 0,
-                "fields": [
-                  {
-                    "name": "۵ apply ۵",
-                    "value": "ღ [heartless.uno/apply](https://heartless.uno/apply)",
-                    "inline": true
-                  },
-                  {
-                    "name": "۵ appeal ۵",
-                    "value": "ღ [heartless.uno/appeal](https://heartless.uno/appeal)",
-                    "inline": true
-                  },
-                  {
-                    "name": "۵ report ۵",
-                    "value": "ღ [heartless.uno/report](https://heartless.uno/report)"
-                  }
-                ],
-                "image": {
-                  "url": "https://heartless.uno/files/media/misc/devider.gif"
-                }
-              }
-            ],
-            "username": "☂ ʰᵉᵃʳᵗˡᵉˢˢ",
-            "avatar_url": "https://heartless.uno/files/media/misc/loveless.png"
+            "username": "heartless",
+            "avatar_url": "https://heartless.uno/files/media/server/loveless.png",
+            "attachments": []
           },
           "reference": ""
         },
@@ -102,28 +60,29 @@
             "embeds": [
               {
                 "title": "۵ donate ۵",
-                "color": 0,
+                "color": 1,
                 "fields": [
                   {
-                    "name": "Bitcoin (BTC)",
+                    "name": "bitcoin (btc)",
                     "value": "ღ `1FNwKkM1ncy6HhRb2gHe3twgZBibFwsLzu`"
                   },
                   {
-                    "name": "Ethereum (ETH)",
+                    "name": "ethereum (eth)",
                     "value": "ღ `0x0f5b2f107b1ae866e50a8140bc3f0e0378ec97a0`"
                   }
                 ],
                 "footer": {
                   "text": "donating may have perks depending on the amount.",
-                  "icon_url": "https://heartless.uno/files/media/misc/warning.png"
+                  "icon_url": "https://heartless.uno/files/media/server/warning.png"
                 },
                 "image": {
-                  "url": "https://heartless.uno/files/media/misc/devider.gif"
+                  "url": "https://heartless.uno/files/media/server/divider.gif"
                 }
               }
             ],
-            "username": "☂ ʰᵉᵃʳᵗˡᵉˢˢ",
-            "avatar_url": "https://heartless.uno/files/media/misc/loveless.png"
+            "username": "heartless",
+            "avatar_url": "https://heartless.uno/files/media/server/loveless.png",
+            "attachments": []
           },
           "reference": ""
         },
@@ -133,31 +92,32 @@
             "embeds": [
               {
                 "title": "۵ level ۵",
-                "color": 0,
+                "color": 1,
                 "fields": [
                   {
-                    "name": "ﾠ【 𝟻 】",
-                    "value": "ღ nick perms\nღ emote & sticker\nღ public threads",
+                    "name": "ﾠ【 5 】",
+                    "value": "ღ nickname\nღ emote & sticker\nღ public threads",
                     "inline": true
                   },
                   {
-                    "name": "ﾠ【𝟷𝟶】",
-                    "value": "ღ attachments\nღ link & tts perms",
+                    "name": "ﾠ【10】",
+                    "value": "ღ attachments\nღ link & tts",
                     "inline": true
                   },
                   {
-                    "name": "ﾠ【𝟸𝟻】",
+                    "name": "ﾠ【25】",
                     "value": "ღ private threads",
                     "inline": true
                   }
                 ],
                 "image": {
-                  "url": "https://heartless.uno/files/media/misc/devider.gif"
+                  "url": "https://heartless.uno/files/media/server/divider.gif"
                 }
               }
             ],
-            "username": "☂ ʰᵉᵃʳᵗˡᵉˢˢ",
-            "avatar_url": "https://heartless.uno/files/media/misc/loveless.png"
+            "username": "heartless",
+            "avatar_url": "https://heartless.uno/files/media/server/loveless.png",
+            "attachments": []
           },
           "reference": ""
         },
@@ -167,19 +127,31 @@
             "embeds": [
               {
                 "title": "۵ boost ۵",
-                "description": "ღ custom role & colour.\nღ level perms instantly.\nღ high role on sidebar.",
-                "color": 0,
+                "color": 1,
+                "fields": [
+                  {
+                    "name": "【 1 】",
+                    "value": "ღ custom role & colour.\nღ level perms instantly.\nღ <@&846629434265042967> role. [hoisted]",
+                    "inline": true
+                  },
+                  {
+                    "name": "【 2 】",
+                    "value": "ღ previous\nღ sharable custom role\nღ <@&1017298399701246063> role. [hoisted]",
+                    "inline": true
+                  }
+                ],
                 "footer": {
                   "text": "removing your boost will remove these perks.",
-                  "icon_url": "https://heartless.uno/files/media/misc/warning.png"
+                  "icon_url": "https://heartless.uno/files/media/server/warning.png"
                 },
                 "image": {
-                  "url": "https://heartless.uno/files/media/misc/devider.gif"
+                  "url": "https://heartless.uno/files/media/server/divider.gif"
                 }
               }
             ],
-            "username": "☂ ʰᵉᵃʳᵗˡᵉˢˢ",
-            "avatar_url": "https://heartless.uno/files/media/misc/loveless.png"
+            "username": "heartless",
+            "avatar_url": "https://heartless.uno/files/media/server/loveless.png",
+            "attachments": []
           },
           "reference": ""
         },
@@ -190,36 +162,19 @@
               {
                 "title": "۵ vote ۵",
                 "description": "ღ [top.gg](https://top.gg/servers/725318956226707498/vote)⭒\nღ [discord.st](https://discord.st/vote/heartless)\nღ [discords.com](https://discords.com/servers/725318956226707498/upvote)⭒\nღ [discordinvites.net](https://discordinvites.net/vote/725318956226707498)⭒\nღ [discordbotlist.com](https://discordbotlist.com/servers/heartless/upvote)\nღ [discordservers.com](https://discordservers.com/server/725318956226707498/bump)",
-                "color": 0,
+                "color": 1,
                 "footer": {
                   "text": "voting may have temp perks depending on the site.",
-                  "icon_url": "https://heartless.uno/files/media/misc/warning.png"
+                  "icon_url": "https://heartless.uno/files/media/server/warning.png"
                 },
                 "image": {
-                  "url": "https://heartless.uno/files/media/misc/devider.gif"
+                  "url": "https://heartless.uno/files/media/server/divider.gif"
                 }
               }
             ],
-            "username": "☂ ʰᵉᵃʳᵗˡᵉˢˢ",
-            "avatar_url": "https://heartless.uno/files/media/misc/loveless.png"
-          },
-          "reference": ""
-        },
-        {
-          "data": {
-            "content": null,
-            "embeds": [
-              {
-                "title": "۵ affiliate ۵",
-                "description": "ღ [message the owner to be here](https://dsc.gg/sadness)",
-                "color": 0,
-                "image": {
-                  "url": "https://heartless.uno/files/media/misc/devider.gif"
-                }
-              }
-            ],
-            "username": "☂ ʰᵉᵃʳᵗˡᵉˢˢ",
-            "avatar_url": "https://heartless.uno/files/media/misc/loveless.png"
+            "username": "heartless",
+            "avatar_url": "https://heartless.uno/files/media/server/loveless.png",
+            "attachments": []
           },
           "reference": ""
         },
@@ -229,26 +184,27 @@
             "embeds": [
               {
                 "title": "۵ invite ۵",
-                "description": "ღ [discord.gg/broken](https://discord.gg/broken)\nღ [discord.io/jebaited](https://discord.io/jebaited)\nღ [dsc.gg/sadness](https://dsc.gg/sadness)",
-                "color": 0,
+                "description": "ღ [discord.gg/failure](https://discord.gg/failure)\nღ [discord.io/jebaited](https://discord.io/jebaited)\nღ [dsc.gg/sadness](https://dsc.gg/sadness)",
+                "color": 1,
                 "footer": {
                   "text": "✰ ༄　𝙷 𝙴 𝙰 𝚁 𝚃 𝙻 𝙴 𝚂 𝚂 ⋆ 𝚏𝚘𝚞𝚗𝚍𝚎𝚍 𝚒𝚗 𝚖𝚊𝚢 𝟸𝟶𝟸𝟷 𝚋𝚢 𝚂𝙻𝟺𝚏",
-                  "icon_url": "https://heartless.uno/files/media/misc/serveravatar.gif"
+                  "icon_url": "https://heartless.uno/files/media/server/serveravatar.gif"
                 },
                 "image": {
-                  "url": "https://heartless.uno/files/media/misc/devider.gif"
+                  "url": "https://heartless.uno/files/media/server/divider.gif"
                 }
               }
             ],
-            "username": "☂ ʰᵉᵃʳᵗˡᵉˢˢ",
-            "avatar_url": "https://heartless.uno/files/media/misc/loveless.png"
+            "username": "heartless",
+            "avatar_url": "https://heartless.uno/files/media/server/loveless.png",
+            "attachments": []
           },
-          "reference": "https://ptb.discord.com/channels/725318956226707498/844111440519888896/885342923087032340"
+          "reference": ""
         }
       ],
       "targets": [
         {
-          "url": "https://ptb.discord.com/api/webhooks/846631524790173767/9Xv_ybfRTlxJhmd6ogUKeLiw7TEU_Fst8CDy7EV5M6JsbtJnmZJzKwPAO2uONLSznzXO"
+          "url": "https://discord.com/api/v10/webhooks/1018127253693022238/E9EgvHm0zV9XMyZndhrQ5i0HvygeHJXDv3z4bJOVTgXjaJw0w_xTzUIrPHZw7esCz6NW"
         }
       ]
     },
@@ -261,23 +217,24 @@
             "embeds": [
               {
                 "title": "۵ gender ۵",
-                "description": "♂️ ⭒ <@&853851322775765022>\n\n♀️ ⭒ <@&853851325800775722>\n\n⚧ ⭒ <@&853851326811078666>",
-                "color": 0,
+                "description": "<:male:943350808102182922> ⭒ <@&853851322775765022>\n\n<:female:943350832806637608> ⭒ <@&853851325800775722>\n\n<:other:943352045811929139> ⭒ <@&853851326811078666>",
+                "color": 1,
                 "author": {
                   "name": "✰ ༄　𝙷 𝙴 𝙰 𝚁 𝚃 𝙻 𝙴 𝚂 𝚂",
                   "url": "https://youtube.com/sl44f",
-                  "icon_url": "https://heartless.uno/files/media/misc/serveravatar.gif"
+                  "icon_url": "https://heartless.uno/files/media/server/serveravatar.gif"
                 },
                 "image": {
-                  "url": "https://heartless.uno/files/media/misc/gender.png"
+                  "url": "https://heartless.uno/files/media/server/divider.png"
                 },
                 "thumbnail": {
-                  "url": "https://heartless.uno/files/media/misc/serveravatar.gif"
+                  "url": "https://heartless.uno/files/media/server/serveravatar.gif"
                 }
               }
             ],
-            "username": "☂ ʰᵉᵃʳᵗˡᵉˢˢ",
-            "avatar_url": "https://heartless.uno/files/media/misc/loveless.png"
+            "username": "heartless",
+            "avatar_url": "https://heartless.uno/files/media/server/loveless.png",
+            "attachments": []
           },
           "reference": ""
         },
@@ -287,15 +244,16 @@
             "embeds": [
               {
                 "title": "۵ age ۵",
-                "description": "➖ ⭒ <@&853851327369183242>\n\n➕ ⭒ <@&853851327624249345>",
-                "color": 0,
+                "description": "<:under18:994520808670105600> ⭒ <@&853851327369183242>\n\n<:18plus:994520850374082611> ⭒ <@&853851327624249345>",
+                "color": 1,
                 "image": {
-                  "url": "https://heartless.uno/files/media/misc/age.png"
+                  "url": "https://heartless.uno/files/media/server/divider.png"
                 }
               }
             ],
-            "username": "☂ ʰᵉᵃʳᵗˡᵉˢˢ",
-            "avatar_url": "https://heartless.uno/files/media/misc/loveless.png"
+            "username": "heartless",
+            "avatar_url": "https://heartless.uno/files/media/server/loveless.png",
+            "attachments": []
           },
           "reference": ""
         },
@@ -305,15 +263,16 @@
             "embeds": [
               {
                 "title": "۵ continent ۵",
-                "description": "🇿🇦 ⭒ <@&853851328392069130>\n\n🇲🇫 ⭒ <@&853851328706773014>\n\n🇯🇵 ⭒ <@&853851329503690772>\n\n🇭🇲 ⭒ <@&853854651456028702>\n\n🇬🇧 ⭒ <@&853854653091151873>\n\n🇺🇲 ⭒ <@&853854653128245248>\n\n🇧🇷 ⭒ <@&853854653925425193>",
-                "color": 0,
+                "description": "<:africa:943350939513946202> ⭒ <@&853851328392069130>\n\n<:asia:943350939367112705> ⭒ <@&853851329503690772>\n\n<:oceania:943351007172259851> ⭒ <@&853854651456028702>\n\n<:europe:943350964373573632> ⭒ <@&853854653091151873>\n\n<:americas:943350939593633842> ⭒ <@&853854653128245248>",
+                "color": 1,
                 "image": {
-                  "url": "https://heartless.uno/files/media/misc/continent.png"
+                  "url": "https://heartless.uno/files/media/server/divider.png"
                 }
               }
             ],
-            "username": "☂ ʰᵉᵃʳᵗˡᵉˢˢ",
-            "avatar_url": "https://heartless.uno/files/media/misc/loveless.png"
+            "username": "heartless",
+            "avatar_url": "https://heartless.uno/files/media/server/loveless.png",
+            "attachments": []
           },
           "reference": ""
         },
@@ -323,15 +282,16 @@
             "embeds": [
               {
                 "title": "۵ hobbie ۵",
-                "description": "📦 ⭒ <@&853854654320607252>\n\n🥼 ⭒ <@&853878469716869130>\n\n🍰 ⭒ <@&853878470446284820>\n\n🐄 ⭒ <@&853878470928760833>\n\n🥅 ⭒ <@&853878489988333589>\n\n🎮 ⭒ <@&853878491279130714>\n\n🎧 ⭒ <@&853878491447558145>\n\n📺 ⭒ <@&853878492256927744>\n\n🎨 ⭒ <@&853878538419961877>\n\n📚 ⭒ <@&853878540730368011>",
-                "color": 0,
+                "description": "<:collecting:943350939270660117> ⭒ <@&853854654320607252>\n\n<:clothing:943350939765596200> ⭒ <@&853878469716869130>\n\n<:cooking:943350939476197376> ⭒ <@&853878470446284820>\n\n<:animals:943350939727855646> ⭒ <@&853878470928760833>\n\n<:fitness:943350987626782740> ⭒ <@&853878489988333589>\n\n<:games:943350987769405442> ⭒ <@&853878491279130714>\n\n<:music:943351006945767434> ⭒ <@&853878491447558145>\n\n<:theater:943351091419021404> ⭒ <@&853878492256927744>\n\n<:visual:943351091465166898> ⭒ <@&853878538419961877>\n\n<:literary:943350987794550784> ⭒ <@&853878540730368011>",
+                "color": 1,
                 "image": {
-                  "url": "https://heartless.uno/files/media/misc/hobbie.png"
+                  "url": "https://heartless.uno/files/media/server/divider.png"
                 }
               }
             ],
-            "username": "☂ ʰᵉᵃʳᵗˡᵉˢˢ",
-            "avatar_url": "https://heartless.uno/files/media/misc/loveless.png"
+            "username": "heartless",
+            "avatar_url": "https://heartless.uno/files/media/server/loveless.png",
+            "attachments": []
           },
           "reference": ""
         },
@@ -341,26 +301,45 @@
             "embeds": [
               {
                 "title": "۵ ping ۵",
-                "description": ":loud_sound: ⭒ <@&875205735468908554>\n\n:bell: ⭒ <@&875205742309822565>\n\n:mega: ⭒ <@&875205728309239858>\n\n:loudspeaker: ⭒ <@&875216414628253756>\n\n:speech_balloon: ⭒ <@&875205504765399051>\n\n:tada: ⭒ <@&875205490869674055>\n\n:grey_question: ⭒ <@&877469073867411476>\n\n:grey_exclamation: ⭒ <@&885336678619828305>",
+                "description": "<:vc:1049142592765427732> ⭒ <@&875205735468908554>\n\n<:announcement:1049142576218918913> ⭒ <@&875205742309822565>\n\n<:event:1049142585429590146> ⭒ <@&875205728309239858>\n\n<:bump:1049142578156675073> ⭒ <@&875216414628253756>\n\n<:deadchat:1049142582829121566> ⭒ <@&875205504765399051>\n\n<:giveaway:1049142589007339662> ⭒ <@&875205490869674055>\n\n<:qotw:1049142590731202600> ⭒ <@&877469073867411476>\n\n<:welcome:1049142595579809842> ⭒ <@&885336678619828305>",
                 "color": 0,
-                "footer": {
-                  "text": "✰ ༄　𝙷 𝙴 𝙰 𝚁 𝚃 𝙻 𝙴 𝚂 𝚂　⭒　𝚛𝚎𝚊𝚌𝚝 𝚝𝚘 𝚊𝚍𝚍 𝚝𝚑𝚎 𝚛𝚘𝚕𝚎",
-                  "icon_url": "https://heartless.uno/files/media/misc/serveravatar.gif"
-                },
                 "image": {
-                  "url": "https://heartless.uno/files/media/misc/ping.png"
+                  "url": "https://heartless.uno/files/media/server/divider.png"
                 }
               }
             ],
-            "username": "☂ ʰᵉᵃʳᵗˡᵉˢˢ",
-            "avatar_url": "https://heartless.uno/files/media/misc/loveless.png"
+            "username": "heartless",
+            "avatar_url": "https://heartless.uno/files/media/server/loveless.png",
+            "attachments": []
+          },
+          "reference": ""
+        },
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "۵ access ۵",
+                "description": "<:dankaccess:1049142581050748988> ⭒ <@&918029244368580680>\n\n<:gamingaccess:1049142587329613905> ⭒ <@&918029247782727680>",
+                "color": 1,
+                "footer": {
+                  "text": "✰ ༄　dsc.gg/sadness　⭒　react to add a role"
+                },
+                "image": {
+                  "url": "https://heartless.uno/files/media/server/divider.png"
+                }
+              }
+            ],
+            "username": "heartless",
+            "avatar_url": "https://heartless.uno/files/media/server/loveless.png",
+            "attachments": []
           },
           "reference": ""
         }
       ],
       "targets": [
         {
-          "url": ""
+          "url": "https://discord.com/api/webhooks/853882378195828756/JbVOeRdekXvFtLocCTCXY3e0dYF_Ome1Lfjlr1rZBDHWsh4LLRO7KxmnKdbU--AX-um_"
         }
       ]
     },
@@ -374,26 +353,27 @@
               {
                 "title": "۵ rules ۵",
                 "description": "ღ don't abuse.\nღ follow main rules.",
-                "color": 0,
+                "color": 1,
                 "author": {
                   "name": "✰ ༄　𝙷 𝙴 𝙰 𝚁 𝚃 𝙻 𝙴 𝚂 𝚂",
                   "url": "https://youtube.com/sl44f",
-                  "icon_url": "https://heartless.uno/files/media/misc/serveravatar.gif"
+                  "icon_url": "https://heartless.uno/files/media/server/serveravatar.gif"
                 },
                 "footer": {
                   "text": "refusing to follow these will result in some form of punishment.",
-                  "icon_url": "https://heartless.uno/files/media/misc/warning.png"
+                  "icon_url": "https://heartless.uno/files/media/server/warning.png"
                 },
                 "image": {
-                  "url": "https://heartless.uno/files/media/misc/devider.gif"
+                  "url": "https://heartless.uno/files/media/server/divider.gif"
                 },
                 "thumbnail": {
-                  "url": "https://heartless.uno/files/media/misc/serveravatar.gif"
+                  "url": "https://heartless.uno/files/media/server/serveravatar.gif"
                 }
               }
             ],
-            "username": "☂ ʰᵉᵃʳᵗˡᵉˢˢ",
-            "avatar_url": "https://heartless.uno/files/media/misc/loveless.png"
+            "username": "heartless",
+            "avatar_url": "https://heartless.uno/files/media/server/loveless.png",
+            "attachments": []
           },
           "reference": ""
         },
@@ -404,18 +384,19 @@
               {
                 "title": "۵ responsibilities ۵",
                 "description": "ღ stay active.\nღ keep peace.\nღ enforce rules.",
-                "color": 0,
+                "color": 1,
                 "footer": {
                   "text": "failing to do these may result in demotion.",
-                  "icon_url": "https://heartless.uno/files/media/misc/warning.png"
+                  "icon_url": "https://heartless.uno/files/media/server/warning.png"
                 },
                 "image": {
-                  "url": "https://heartless.uno/files/media/misc/devider.gif"
+                  "url": "https://heartless.uno/files/media/server/divider.gif"
                 }
               }
             ],
-            "username": "☂ ʰᵉᵃʳᵗˡᵉˢˢ",
-            "avatar_url": "https://heartless.uno/files/media/misc/loveless.png"
+            "username": "heartless",
+            "avatar_url": "https://heartless.uno/files/media/server/loveless.png",
+            "attachments": []
           },
           "reference": ""
         },
@@ -425,7 +406,7 @@
             "embeds": [
               {
                 "title": "۵ perms ۵",
-                "color": 0,
+                "color": 1,
                 "fields": [
                   {
                     "name": "helper",
@@ -445,12 +426,13 @@
                   }
                 ],
                 "image": {
-                  "url": "https://heartless.uno/files/media/misc/devider.gif"
+                  "url": "https://heartless.uno/files/media/server/divider.gif"
                 }
               }
             ],
-            "username": "☂ ʰᵉᵃʳᵗˡᵉˢˢ",
-            "avatar_url": "https://heartless.uno/files/media/misc/loveless.png"
+            "username": "heartless",
+            "avatar_url": "https://heartless.uno/files/media/server/loveless.png",
+            "attachments": []
           },
           "reference": ""
         },
@@ -460,26 +442,26 @@
             "embeds": [
               {
                 "title": "۵ ill add more later ۵",
-                "description": "ღ [dsc.gg/sadness](https://dsc.gg/sadness)\nღ [discord.io/jebaited](https://discord.io/jebaited)\nღ [dsc.gg/sadness](https://dsc.gg/sadness)",
-                "color": 0,
+                "description": "ღ [discord.gg/failure](https://discord.gg/failure)\nღ [discord.io/jebaited](https://discord.io/jebaited)\nღ [dsc.gg/sadness](https://dsc.gg/sadness)",
+                "color": 1,
                 "footer": {
-                  "text": "✰ ༄　𝙷 𝙴 𝙰 𝚁 𝚃 𝙻 𝙴 𝚂 𝚂",
-                  "icon_url": "https://heartless.uno/files/media/misc/serveravatar.gif"
+                  "text": "✰ ༄　discord.gg/failure"
                 },
                 "image": {
-                  "url": "https://heartless.uno/files/media/misc/devider.gif"
+                  "url": "https://heartless.uno/files/media/server/divider.gif"
                 }
               }
             ],
-            "username": "☂ ʰᵉᵃʳᵗˡᵉˢˢ",
-            "avatar_url": "https://heartless.uno/files/media/misc/loveless.png"
+            "username": "heartless",
+            "avatar_url": "https://heartless.uno/files/media/server/loveless.png",
+            "attachments": []
           },
           "reference": ""
         }
       ],
       "targets": [
         {
-          "url": "https://ptb.discord.com/api/webhooks/885772975155060756/dRZYF2W9Vtrzc5f_GBGk4fPFWKafrMocZtknV3OjpO2bRSg6XX9eVNtXsUdb1e8T7flb"
+          "url": "https://discord.com/api/webhooks/885772975155060756/dRZYF2W9Vtrzc5f_GBGk4fPFWKafrMocZtknV3OjpO2bRSg6XX9eVNtXsUdb1e8T7flb"
         }
       ]
     }
