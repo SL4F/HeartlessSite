@@ -1,4 +1,4 @@
-This is a Brave Rewards publisher verification file.
+This is a Brave Creators publisher verification file.
 
-Domain: tless.one
-Token: 6f8705db223ec060568cbb69591d719f09ccbe084670ccd9a609088eddedee95 
+Domain: heartless.uno
+Token: e3852aea4436f4c16861228505d05c7ae1860c50f4d6bbe2b398cfd10a27a21a
