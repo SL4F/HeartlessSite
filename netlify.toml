@@ -9,4 +9,15 @@
   to = "https://heartless.uno"
   status = 301
   force = true
-
+  from = "https://discordo.cam"
+  to = "https://heartless.uno"
+  status = 301
+  force = true
+    from = "https://discordian.online"
+  to = "https://heartless.uno"
+  status = 301
+  force = true
+    from = "https://discordian.website"
+  to = "https://heartless.uno"
+  status = 301
+  force = true
