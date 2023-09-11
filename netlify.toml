@@ -15,7 +15,7 @@
   # publish = "/"
 
   # Default build command.
-  command = "echo 'default context'"
+  command = "echo make-all"
 
 [[plugins]]
   # Installs the Lighthouse Build Plugin for all deploy contexts
