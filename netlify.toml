@@ -1,7 +1,10 @@
 [[plugins]]
   # Installs the Lighthouse Build Plugin for all deploy contexts
-  package = "@netlify/plugin-lighthouse"
+  # Configuration for a plugin published to npm
+package = "netlify-plugin-lighthouse"
 
+  [plugins.inputs]
+  output_path = "reports/lighthouse.html"
 
 # A redirect rule with many of the supported properties
 [[redirects]]
