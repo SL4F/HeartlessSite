@@ -15,7 +15,7 @@
   # publish = "/"
 
   # Default build command.
-  command = "npm run build"
+  command = "echo 'make all'"
 
 # [[plugins]]
   # Installs the Lighthouse Build Plugin for all deploy contexts
