@@ -15,15 +15,15 @@
   # publish = "/"
 
   # Default build command.
-  command = "echo 'npm run build'"
+  command = "npm run build"
 
-[[plugins]]
+# [[plugins]]
   # Installs the Lighthouse Build Plugin for all deploy contexts
-  package = "@netlify/plugin-lighthouse"
+  # package = "@netlify/plugin-lighthouse"
 
   # optional, deploy the lighthouse report to a path under your site
-  [plugins.inputs.audits]
-    output_path = "reports/lighthouse.html"
+  # [plugins.inputs.audits]
+    # output_path = "reports/lighthouse.html"
 
 # Production context: all deploys from the Production branch
 # set in your site’s Branches settings in the UI will inherit
