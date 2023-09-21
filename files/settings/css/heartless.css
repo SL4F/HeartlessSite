@@ -458,7 +458,6 @@ table.transparency {
     padding: 15px 5px;
     display: table-cell;
     text-align: left;
-    justify-content: left;
     vertical-align: middle;
     border-radius: 2px;
 }
