@@ -454,6 +454,14 @@ padding-top: 12px;
     background-color: #b50000;
   }
 
+table.transparency td, table.transparency th {
+    padding: 15px 5px;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 2px;
+}
+
 @media only screen and (min-width:992px){
     nav {
         margin-bottom: 1%;
