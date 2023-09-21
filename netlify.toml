@@ -84,6 +84,7 @@
   to = "https://heartless.uno"
   status = 301
   force = true
+<<<<<<< HEAD
 [[redirects]]
   from = "https://discordo.cam/*"
   to = "https://heartless.uno"
@@ -91,10 +92,22 @@
   force = true
 [[redirects]]
   from = "https://discordian.online/*"
+=======
+[[redirects]]
+  from = "https://discordo.cam/*"
+>>>>>>> 141c55656a6b7ac6f2a48ad8ad72fe84c08f7fbf
   to = "https://heartless.uno"
   status = 301
   force = true
 [[redirects]]
+<<<<<<< HEAD
+=======
+  from = "https://discordian.online/*"
+  to = "https://heartless.uno"
+  status = 301
+  force = true
+[[redirects]]
+>>>>>>> 141c55656a6b7ac6f2a48ad8ad72fe84c08f7fbf
   from = "https://discordian.website/*"
   to = "https://heartless.uno"
   status = 301
@@ -176,6 +189,19 @@
   # functions, to deploy. This is an absolute path relative to the 
   # base directory, which is the root by default (/).
   # directory = "functions/"
+<<<<<<< HEAD
+=======
+
+# Use [dev] to set configuration overrides for local
+# development environments run using Netlify Dev - except
+# for environment variables. Environment variables for Netlify
+# Dev should be set under [context.dev.environment] instead.
+# [dev]
+  # command = "yarn start"
+  # port = 8888
+  # publish = "dist"
+
+>>>>>>> 141c55656a6b7ac6f2a48ad8ad72fe84c08f7fbf
 
 # Use [dev] to set configuration overrides for local
 # development environments run using Netlify Dev - except
