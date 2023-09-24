@@ -189,7 +189,8 @@ footer a:active {
 }
 
 .bigger {
-    font-size: 30px;
+    font-size: 35px;
+    font-family: monospace;
 }
 
 .fa-chevron-down {

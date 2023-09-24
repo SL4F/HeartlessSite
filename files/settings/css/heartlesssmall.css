@@ -43,7 +43,7 @@ nav {
 .navbar {
 	margin: 0 auto!important;
 	padding-top: 20px;
-	width: 90%!important
+	width: 100%!important
 }
 
 .navbar li {
@@ -89,7 +89,7 @@ nav {
 
 iframe.advert {
     width: 100%;
-    height: 100%;
+    height: 175px;
     margin-top: 25px;
 }
 
@@ -123,8 +123,8 @@ iframe.advert {
     margin-bottom: 20px;
     margin-right: auto;
     margin-left: auto;
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 
@@ -172,7 +172,7 @@ footer a:active {
 }
 
 .title {
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 200;
     color: white;
 }
@@ -182,7 +182,8 @@ footer a:active {
 }
 
 .bigger {
-    font-size: 30px;
+    font-size: 28px;
+    font-family: monospace;
 }
 
 .fa-chevron-down {
