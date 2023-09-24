@@ -19,7 +19,7 @@ main {
 }
 
 nav {
-    margin-bottom: 6%;
+    margin-bottom: 1%;
 }
 
 .particles {
@@ -60,6 +60,11 @@ nav {
     text-decoration: none;
 }
 
+.navbar img {
+    width: 50px;
+    height: 50px;
+}
+
 .navrow {
     display: flex;
     -ms-flex-wrap: wrap;
@@ -72,17 +77,12 @@ nav {
 }
 
 .navigation {
-    padding-top: 13px;
-}
-
-.navbar img {
-    width: 75px;
-    height: 75px;
+    padding-top: 10px;
 }
 
 .fifty {
-    width: 42.5%;
-    float: right;
+    width: auto !important;
+    float: none;
     padding-top: 25px;
     text-align: center
 }
@@ -90,11 +90,12 @@ nav {
 iframe.advert {
     width: 512px;
     height: 288px;
+    vertical-align: middle;
     margin-top: 25px;
 }
 
 .button {
-    padding: 9px 20px;
+    padding: 5px 12.5px;
     border-color: white;
     border-style: solid;
     border-width: 1px;
@@ -115,25 +116,18 @@ iframe.advert {
 }
 
 .row {
-    display: flex;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
+    display: block !important;
+    -ms-flex-wrap: nowrap !important;
+    flex-wrap: nowrap !important;
     margin-right: 15px !important;
     margin-left: 15px !important;
     margin-bottom: 20px;
     margin-right: auto;
     margin-left: auto;
-    padding-left: 5%;
-    padding-right: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 
-.container {
-    width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
-}
 
 footer {
     align-content: center;
@@ -368,8 +362,8 @@ footer a:active {
 }
 
 .service img {
-    width: 94px;
-    height: 94px;
+    width: 80px;
+    height: 80px;
 }
 
 .service-name {
