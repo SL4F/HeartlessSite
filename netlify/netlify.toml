@@ -25,7 +25,7 @@
   [plugins.inputs.audits]
     output_path = "reports/lighthouse.html"
 
-    package = "netlify-plugin-checklinks"
+  package = "netlify-plugin-checklinks"
  
   [plugins.inputs]
     # An array of glob patterns for pages on your site
